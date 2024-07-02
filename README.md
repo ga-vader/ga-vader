@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ga-vader
 - 👀 I’m interested in Econometrics and Operations Research.
-- 🌱 I’m currently learning
 - 📫 How to reach me: www.linkedin.com/in/bram-vader-036090193
 
 
